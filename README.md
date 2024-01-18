@@ -1,4 +1,3 @@
-Certainly! Here is a template for the README section of your project:
 
 ---
 
